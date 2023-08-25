@@ -1,4 +1,5 @@
 # chatgpt-voice-assistant
+# talk to chatGPT
 
 ## Project setup
 ```
